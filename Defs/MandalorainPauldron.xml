@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_00_Pauldron</defName>
+		<label>Mandalorian Pauldron v.00</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian0/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian0/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_01_Pauldron</defName>
+		<label>Mandalorian Pauldron v.01</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian1/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian1/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_02_Pauldron</defName>
+		<label>Mandalorian Pauldron v.02</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian2/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian2/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_03_Pauldron</defName>
+		<label>Mandalorian Pauldron v.03</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian3/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian3/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_04_Pauldron</defName>
+		<label>Mandalorian Pauldron v.04</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian4/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian4/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_05_Pauldron</defName>
+		<label>Mandalorian Pauldron v.05</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian5/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian5/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_06_Pauldron</defName>
+		<label>Mandalorian Pauldron v.06</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian6/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian6/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_07_Pauldron</defName>
+		<label>Mandalorian Pauldron v.07</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian7/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian7/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_08_Pauldron</defName>
+		<label>Mandalorian Pauldron v.08</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian8/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian8/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_09_Pauldron</defName>
+		<label>Mandalorian Pauldron v.09</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian9/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian9/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_10_Pauldron</defName>
+		<label>Mandalorian Pauldron v.10</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian10/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian10/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_11_Pauldron</defName>
+		<label>Mandalorian Pauldron v.11</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian11/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian11/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_12_Pauldron</defName>
+		<label>Mandalorian Pauldron v.12</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian12/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian12/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_13_Pauldron</defName>
+		<label>Mandalorian Pauldron v.13</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian13/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian13/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_14_Pauldron</defName>
+		<label>Mandalorian Pauldron v.14</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian14/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian14/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_15_Pauldron</defName>
+		<label>Mandalorian Pauldron v.15</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian15/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian15/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_16_Pauldron</defName>
+		<label>Mandalorian Pauldron v.16</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian16/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian16/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_17_Pauldron</defName>
+		<label>Mandalorian Pauldron v.17</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian17/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian17/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_18_Pauldron</defName>
+		<label>Mandalorian Pauldron v.18</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian18/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian18/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPauldron">
+		<defName>Mandalorian_19_Pauldron</defName>
+		<label>Mandalorian Pauldron v.19</label>
+	<graphicData>
+      <texPath>Things/Pauldron/Mandalorian19/Mandalorian_Pauldron</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Pauldron/Mandalorian19/Mandalorian_Pauldron</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+
+</Defs>

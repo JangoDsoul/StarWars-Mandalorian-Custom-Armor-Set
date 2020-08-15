@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_00_Helmet</defName>
+		<label>Mandalorian Helmet V.0</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian0/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian0/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_01_Helmet</defName>
+		<label>Mandalorian Helmet v.1</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian1/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian1/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef> 
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_02_Helmet</defName>
+		<label>Mandalorian Helmet v.2</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian2/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian2/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_03_Helmet</defName>
+		<label>Mandalorian Helmet v.3</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian3/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian3/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_04_Helmet</defName>
+		<label>Mandalorian Helmet v.4</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian4/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian4/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_05_Helmet</defName>
+		<label>Mandalorian Helmet v.5</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian5/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian5/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>  
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_06_Helmet</defName>
+		<label>Mandalorian Helmet v.6</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian6/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian6/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_07_Helmet</defName>
+		<label>Mandalorian Helmet v.7</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian7/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian7/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_08_Helmet</defName>
+		<label>Mandalorian Helmet v.8</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian8/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian8/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_09_Helmet</defName>
+		<label>Mandalorian Helmet v.9</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian9/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian9/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_10_Helmet</defName>
+		<label>Mandalorian Helmet v.10</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian10/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian10/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_11_Helmet</defName>
+		<label>Mandalorian Helmet v.11</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian11/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian11/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_12_Helmet</defName>
+		<label>Mandalorian Helmet v.12</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian12/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian12/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_13_Helmet</defName>
+		<label>Mandalorian Helmet v.13</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian13/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian13/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_14_Helmet</defName>
+		<label>Mandalorian Helmet v.14</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian14/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian14/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_15_Helmet</defName>
+		<label>Mandalorian Helmet v.15</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian15/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian15/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_16_Helmet</defName>
+		<label>Mandalorian Helmet v.16</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian16/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian16/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_17_Helmet</defName>
+		<label>Mandalorian Helmet v.17</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian17/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian17/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_18_Helmet</defName>
+		<label>Mandalorian Helmet v.18</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian18/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian18/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_19_Helmet</defName>
+		<label>Mandalorian Helmet v.19</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian19/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian19/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianHelmet">
+		<defName>Mandalorian_20_Helmet</defName>
+		<label>Mandalorian Helmet v.20</label>
+	<graphicData>
+      <texPath>Things/Helmet/Mandalorian20/Mandalorian_Helmet</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Helmet/Mandalorian20/Mandalorian_Helmet</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+</Defs>

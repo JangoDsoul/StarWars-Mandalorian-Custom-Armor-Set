@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--Mandalorian Helmet Base-->
+  <ThingDef Name="JDSMandalorianHelmet" ParentName="ArmorMachineableBase" Abstract="True">
+		<description>Traditional Mandalorian helmets often had a macrobinocular viewplate, tactical displays, a comlink and an antenna tipped with a rangefinder that could be pulled over the viewplate to enhance imagery</description>
+		<techLevel>Industrial</techLevel>
+		<tradeability>Sellable</tradeability>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>11500</WorkToMake>
+		<MaxHitPoints>250</MaxHitPoints>
+		<Mass>2.4</Mass>
+		<Flammability>0</Flammability>
+		<ArmorRating_Sharp>0.80</ArmorRating_Sharp>
+		<ArmorRating_Blunt>0.33</ArmorRating_Blunt>
+		<ArmorRating_Heat>0.75</ArmorRating_Heat>
+		<Insulation_Cold>5</Insulation_Cold>
+		<Insulation_Heat>3</Insulation_Heat>
+		<EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<ToxicSensitivity>-0.80</ToxicSensitivity>
+		<SocialImpact>0.35</SocialImpact>
+		<ShootingAccuracyPawn>0.25</ShootingAccuracyPawn>
+		<NegotiationAbility>0.05</NegotiationAbility>
+	</equippedStatOffsets>
+
+    <costList>
+		<Plasteel>50</Plasteel>
+		<ComponentIndustrial>4</ComponentIndustrial>
+		<ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>JDSMandalorianCustomSet</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>JDSForge</li>
+        </recipeUsers>
+    </recipeMaker>
+	
+    <apparel>
+		<bodyPartGroups>
+			<li>FullHead</li>
+		</bodyPartGroups>
+		<layers>
+			<li>Overhead</li>
+		</layers>
+		<tags>
+			<li>JDSMandalorianHelmet</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+	<thingCategories Inherit="False">
+		<li>Headgear</li>
+	</thingCategories>
+  </ThingDef>
+
+	<!--Mandalorian Chest Plate Base-->	
+  <ThingDef Name="JDSMandalorianChestPlate" ParentName="ArmorMachineableBase" Abstract="True">
+		<description>Traditional Mandalorian armor consisted of a helmet, shoulder pauldrons, vambraces, Chestplate, codpiece, knee-pads, thigh and shin guards clasped over a body stocking</description>
+		<techLevel>Spacer</techLevel>
+		<tradeability>Sellable</tradeability>
+		<generateCommonality>0</generateCommonality>
+		<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>16000</WorkToMake>
+		<MaxHitPoints>500</MaxHitPoints>
+		<Mass>12.5</Mass>
+		<Flammability>0</Flammability>
+		<ArmorRating_Sharp>1.20</ArmorRating_Sharp>
+		<ArmorRating_Blunt>1</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.20</ArmorRating_Heat>
+		<Insulation_Cold>30</Insulation_Cold>
+		<Insulation_Heat>20</Insulation_Heat>
+		<EquipDelay>1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<MeleeDodgeChance>0.10</MeleeDodgeChance>
+		<MeleeHitChance>0.05</MeleeHitChance>
+		<MoveSpeed>0.10</MoveSpeed>
+		<PainShockThreshold>0.05</PainShockThreshold>
+	</equippedStatOffsets>
+
+    <costList>
+		<Plasteel>100</Plasteel>
+		<ComponentIndustrial>8</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>JDSMandalorianCustomSet</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>JDSForge</li>
+        </recipeUsers>
+    </recipeMaker>
+	
+    <apparel>
+		<bodyPartGroups>
+			<li>Neck</li>
+			<li>Torso</li>
+			<li>Waist</li>
+			<li>Arms</li>
+		</bodyPartGroups>
+		<layers>
+			<li>Middle</li>
+		</layers>
+		<tags>
+			<li>JDSMandalorianChestPlate</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+	</apparel>
+	<thingCategories Inherit="False">
+		<li>Apparel</li>
+	</thingCategories>
+  </ThingDef>
+  
+	<!--Mandalorian Plate Legs Base-->	
+  <ThingDef Name="JDSMandalorianPlateLegs" ParentName="ArmorMachineableBase" Abstract="True">
+		<description>Traditional Mandalorian armor consisted of a helmet, shoulder pauldrons, vambraces, Chestplate, codpiece, knee-pads, thigh and shin guards clasped over a body stocking</description>
+		<techLevel>Spacer</techLevel>
+		<tradeability>Sellable</tradeability>
+		<generateCommonality>0</generateCommonality>
+		<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>13000</WorkToMake>
+		<MaxHitPoints>300</MaxHitPoints>
+		<Mass>12.5</Mass>
+		<Flammability>0</Flammability>
+		<ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+		<ArmorRating_Blunt>0.80</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.20</ArmorRating_Heat>
+		<Insulation_Cold>30</Insulation_Cold>
+		<Insulation_Heat>20</Insulation_Heat>
+		<EquipDelay>1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<MoveSpeed>0.05</MoveSpeed>
+		<PainShockThreshold>0.05</PainShockThreshold>
+	</equippedStatOffsets>
+
+    <costList>
+		<Plasteel>100</Plasteel>
+		<ComponentIndustrial>8</ComponentIndustrial>
+		<ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>JDSMandalorianCustomSet</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>JDSForge</li>
+        </recipeUsers>
+    </recipeMaker>
+	
+    <apparel>
+		<bodyPartGroups>
+			<li>Legs</li>
+		</bodyPartGroups>
+		<layers>
+			<li>Middle</li>
+		</layers>
+		<tags>
+			<li>JDSMandalorianPlatelegs</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+	</apparel>
+	<thingCategories Inherit="False">
+		<li>Apparel</li>
+	</thingCategories>
+  </ThingDef>  
+
+	<!--Mandalorian Bandolier/Belt Base-->	
+  <ThingDef Name="JDSMandalorianBandolierBelt" ParentName="ArmorMachineableBase" Abstract="True">
+		<description>A bandolier/Belt bag was a strap of clothing worn across the torso from the waist to the shoulder. It was often used for carrying equipment or ammunition which could be attached onto the strap for easy access</description>
+		<techLevel>Spacer</techLevel>
+		<tradeability>Sellable</tradeability>
+		<generateCommonality>0</generateCommonality>
+		<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>2500</WorkToMake>
+		<MaxHitPoints>150</MaxHitPoints>
+		<Mass>10.5</Mass>
+		<Flammability>0</Flammability>
+		<ArmorRating_Sharp>.20</ArmorRating_Sharp>
+		<ArmorRating_Blunt>.50</ArmorRating_Blunt>
+		<EquipDelay>.50</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<MoveSpeed>-0.05</MoveSpeed>
+	</equippedStatOffsets>
+
+    <costList>
+		<Cloth>100</Cloth>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>JDSMandalorianCustomSet</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>JDSForge</li>
+        </recipeUsers>
+    </recipeMaker>
+	
+    <apparel>
+		<bodyPartGroups>
+			<li>Torso</li>
+			<li>Waist</li>
+		</bodyPartGroups>
+		<layers>
+			<li>Belt</li>
+		</layers>
+		<tags>
+			<li>JDSMandalorianBelt</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+      <wornGraphicData>
+        <renderUtilityAsPack>false</renderUtilityAsPack>
+      </wornGraphicData>		
+	</apparel>
+	<thingCategories Inherit="False">
+		<li>Apparel</li>
+	</thingCategories>
+  </ThingDef>
+
+	<!--Mandalorian Pauldron Base-->	
+  <ThingDef Name="JDSMandalorianPauldron" ParentName="ArmorMachineableBase" Abstract="True">
+		<description>Traditional Mandalorian armor consisted of a helmet, shoulder pauldrons, vambraces, Chestplate, codpiece, knee-pads, thigh and shin guards clasped over a body stocking</description>
+		<techLevel>Spacer</techLevel>
+		<tradeability>Sellable</tradeability>
+		<generateCommonality>0</generateCommonality>
+		<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>9000</WorkToMake>
+		<MaxHitPoints>350</MaxHitPoints>
+		<Mass>5.5</Mass>
+		<Flammability>0</Flammability>
+		<ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+		<ArmorRating_Blunt>.50</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.20</ArmorRating_Heat>
+		<EquipDelay>.50</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<MoveSpeed>-0.05</MoveSpeed>
+	</equippedStatOffsets>
+
+    <costList>
+		<Plasteel>100</Plasteel>
+		<ComponentIndustrial>8</ComponentIndustrial>
+		<ComponentSpacer>1</ComponentSpacer>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>JDSMandalorianCustomSet</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>JDSForge</li>
+        </recipeUsers>
+    </recipeMaker>
+	
+    <apparel>
+		<bodyPartGroups>
+			<li>Shoulders</li>
+		</bodyPartGroups>
+		<layers>
+			<li>Shell</li>
+		</layers>
+		<tags>
+			<li>JDSMandalorianPauldron</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+	</apparel>
+	<thingCategories Inherit="False">
+		<li>Apparel</li>
+	</thingCategories>
+  </ThingDef>
+
+</Defs>

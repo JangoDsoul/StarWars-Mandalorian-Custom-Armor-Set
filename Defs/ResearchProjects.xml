@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!--============== Manual ==============-->
+
+<ResearchProjectDef>
+    <defName>JDSMandalorianCustomSet</defName>
+    <label>Mandalorian ArmorSmith Secret</label>
+    <description>Revolutionizing the Mandalorian war production</description>
+<baseCost>16000</baseCost>
+<tab>JDSTheForgetab</tab>
+<techLevel>Spacer</techLevel>
+<researchViewY>5</researchViewY>	<!-- up and down-->
+<researchViewX>1</researchViewX>	<!-- left and right -->
+		<prerequisites>
+			<li>TheBlastForgeRelics</li>
+		</prerequisites>
+</ResearchProjectDef>
+
+</Defs>

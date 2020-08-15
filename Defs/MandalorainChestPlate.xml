@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_00_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.00</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian0/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian0/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_01_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.01</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian1/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian1/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_02_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.02</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian2/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian2/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_03_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.03</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian3/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian3/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_04_ChestPlate</defName>
+		<label>Mandalorian4ChestPlate</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian4/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian4/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_05_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.05</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian5/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian5/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_06_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.06</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian6/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian6/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_07_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.06</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian7/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian7/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_08_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.08</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian8/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian8/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_09_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.09</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian9/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian9/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_10_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.10</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian10/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian10/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_11_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.11</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian11/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian11/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_12_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.12</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian12/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian12/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_13_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.13</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian13/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian13/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_14_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.14</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian14/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian14/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_15_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.15</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian15/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian15/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_16_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.16</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian16/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian16/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_17_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.17</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian17/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian17/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_18_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.18</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian18/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian18/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  <!--
+    <ThingDef ParentName="JDSMandalorianChestPlate">
+		<defName>Mandalorian_19_ChestPlate</defName>
+		<label>Mandalorian ChestPlate v.19</label>
+	<graphicData>
+      <texPath>Things/ChestPlate/Mandalorian19/Mandalorian_Armor</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/ChestPlate/Mandalorian19/Mandalorian_Armor</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+-->
+</Defs>

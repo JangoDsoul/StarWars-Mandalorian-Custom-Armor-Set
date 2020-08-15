@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_00_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.00</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian0/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian0/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_01_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.01</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian1/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian1/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_02_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.02</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian2/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian2/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_03_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.03</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian3/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian3/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_04_Bagbelt</defName>
+		<label>Mandalorian4Bagbelt</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian4/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian4/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_05_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.05</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian5/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian5/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_06_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.06</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian6/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian6/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_07_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.06</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian7/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian7/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_08_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.08</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian8/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian8/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_09_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.09</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian9/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian9/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_10_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.10</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian10/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian10/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_11_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.11</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian11/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian11/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_12_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.12</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian12/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian12/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_13_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.13</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian13/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian13/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+    <ThingDef ParentName="JDSMandalorianBandolierBelt">
+		<defName>Mandalorian_14_Bagbelt</defName>
+		<label>Mandalorian Bagbelt v.14</label>
+	<graphicData>
+      <texPath>Things/Bandolier-Belt/Mandalorian14/Mandalorian_Bagbelt</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/Bandolier-Belt/Mandalorian14/Mandalorian_Bagbelt</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+  
+</Defs>

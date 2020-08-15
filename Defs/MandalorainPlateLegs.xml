@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="JDSMandalorianPlateLegs">
+		<defName>Mandalorian_00_Plateleg</defName>
+		<label>Mandalorian Plateleg v.00</label>
+	<graphicData>
+      <texPath>Things/LegPlate/Mandalorian0/Mandalorian_plateleg</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/LegPlate/Mandalorian0/Mandalorian_plateleg</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPlateLegs">
+		<defName>Mandalorian_01_Plateleg</defName>
+		<label>Mandalorian Plateleg v.01</label>
+	<graphicData>
+      <texPath>Things/LegPlate/Mandalorian1/Mandalorian_plateleg</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/LegPlate/Mandalorian1/Mandalorian_plateleg</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+  <ThingDef ParentName="JDSMandalorianPlateLegs">
+		<defName>Mandalorian_02_Plateleg</defName>
+		<label>Mandalorian Plateleg v.02</label>
+	<graphicData>
+      <texPath>Things/LegPlate/Mandalorian2/Mandalorian_plateleg</texPath>
+    </graphicData>
+    <apparel>
+		<wornGraphicPath>Things/LegPlate/Mandalorian2/Mandalorian_plateleg</wornGraphicPath>
+	</apparel>
+  </ThingDef>
+
+</Defs>
